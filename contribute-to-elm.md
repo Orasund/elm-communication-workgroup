@@ -6,7 +6,7 @@
 
 Don't try add any big contribution to any of the elm/* packages.
 
-If you have an idea, try to implemented outside of elm/* and then write about it on discourse. Do not expect that idea to be included into elm.
+If you have an idea, try to implement it outside of elm/* and then write about it on Discourse. Do not expect that idea to be included into Elm.
 
 Success stories:
 
