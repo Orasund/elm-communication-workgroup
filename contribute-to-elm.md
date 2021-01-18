@@ -25,6 +25,8 @@ todo
 
 ## How to build the compiler?
 
+Use the [docker file](https://github.com/elm/compiler/blob/master/installers/linux/Dockerfile) or if on debian:
+
 ```
 ; might need others also, but this is what I missed
 $ sudo apt-get install ghc cabal-install
